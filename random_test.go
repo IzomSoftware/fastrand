@@ -2,7 +2,7 @@ package fastrand_test
 
 import (
 	"fmt"
-	"github.com/SyNdicateFoundation/fastrand"
+	"github.com/IzomSoftware/fastrand"
 	"net"
 	"strings"
 	"sync"

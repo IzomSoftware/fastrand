@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SyNdicateFoundation/fastrand"
+	"github.com/IzomSoftware/fastrand"
 	"net"
 )
 

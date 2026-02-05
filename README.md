@@ -1,7 +1,7 @@
 # FastRand for Go
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/SyNdicateFoundation/fastrand)](https://goreportcard.com/report/github.com/SyNdicateFoundation/fastrand)
-[![GoDoc](https://godoc.org/github.com/SyNdicateFoundation/fastrand?status.svg)](https://godoc.org/github.com/SyNdicateFoundation/fastrand)
+[![Go Report Card](https://goreportcard.com/badge/github.com/IzomSoftware/fastrand)](https://goreportcard.com/report/github.com/IzomSoftware/fastrand)
+[![GoDoc](https://godoc.org/github.com/IzomSoftware/fastrand?status.svg)](https://godoc.org/github.com/IzomSoftware/fastrand)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **FastRand** is a high-performance, zero-dependency Go library for generating random data. It provides a comprehensive suite of tools, from simple numbers to complex templated strings, with both cryptographic (ChaCha8) and non-cryptographic (PCG) sources. It is engineered to be a faster, more powerful, and more ergonomic replacement for Go's standard `math/rand` and `crypto/rand` packages for common tasks.
@@ -95,7 +95,7 @@ The `Randomizer`'s result of **~13 allocations** for parsing a complex template 
 ## Installation
 
 ```sh
-go get github.com/SyNdicateFoundation/fastrand
+go get github.com/IzomSoftware/fastrand
 ```
 
 ## Core Concepts: Package vs. Engine

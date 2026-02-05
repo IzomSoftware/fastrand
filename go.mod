@@ -1,4 +1,4 @@
-module github.com/SyNdicateFoundation/fastrand
+module github.com/IzomSoftware/fastrand
 
 go 1.25.0
 
